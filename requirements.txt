@@ -1,1 +1,6 @@
-
+streamlit
+biopython
+pandas
+scikit-learn
+joblib
+numpy
